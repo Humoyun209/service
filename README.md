@@ -12,8 +12,8 @@
 
 - **Авторизованный пользователь может подать заявку**
 
-- **Авторизованный пользователь может подать заявку**
-    - Только владелец объявления может посмотреть заявки и их фильтровать по своим объявлениям**
+- **Авторизованный пользователь может подать заявку
+    - Только владелец объявления может посмотреть заявки и их фильтровать по своим объявлениям
     - Только владелец объявления выбирает из заявки и подтверждает
 
 - **Авторизация ро JWT**
@@ -22,8 +22,8 @@
 
 **Запуск проекта:**
 
-> git clone https://github.com/Humoyun209/service.git <br>
-> python -m venv venv <br>
-> pip install -r requirements.txt <br>
-> python manage.py runserver <br>
-> API docs -> http://127.0.0.1:8000/swagger/ <br>
+> git clone https://github.com/Humoyun209/service.git
+> python -m venv venv
+> pip install -r requirements.txt
+> python manage.py runserver
+> API docs -> http://127.0.0.1:8000/swagger/
